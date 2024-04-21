@@ -1,3 +1,5 @@
+import random
+
 MAX_LINES = 3 #constant value
 MAX_BET = 10
 MIN_BET = 1
