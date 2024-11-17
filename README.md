@@ -5,3 +5,4 @@
 - Winnings is also calculated simultaneously while continuing the game.
 - Medium level code. Easily Readable.
 - Error prone but the errors can be overcomed by avoiding silly mistakes while practicing.
+- Feature: Generates random items based on user request.
