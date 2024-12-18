@@ -4,5 +4,5 @@
 - Random function is used to choose a random value from a dictionary of values.
 - Winnings is also calculated simultaneously while continuing the game.
 - Medium level code. Easily Readable.
-- Error prone but the errors can be overcomed by avoiding silly mistakes while practicing.
+- Error prone but the errors can be overcomed by avoiding silly mistakes while practicing. Utilze carefully with right syntax.
 - Feature: Generates random items based on user request.
