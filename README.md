@@ -6,4 +6,4 @@
 - Medium level code. Easily Readable.
 - High level feature with vending machine layout.
 - Error prone but the errors can be overcomed by avoiding silly mistakes while practicing. Utilze carefully with right syntax.
-- Feature: Generates random items based on user request like a toy vending that a kid plays
+- Feature: Generates random items based on user request like a toy vending that a kid plays.
